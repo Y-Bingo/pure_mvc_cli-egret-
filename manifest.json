@@ -1,0 +1,35 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/promise/promise.js",
+		"libs/modules/game/game.js",
+		"libs/puremvc/puremvc.js"
+	],
+	"game": [
+		"bin-debug/core/view/GameLayerMrg.js",
+		"bin-debug/movie/PanelAnimation.js",
+		"bin-debug/core/controller/StartCommand.js",
+		"bin-debug/constants/SceneNotify.js",
+		"bin-debug/core/AppFacade.js",
+		"bin-debug/core/interface.js",
+		"bin-debug/core/controller/BootstrapCommand.js",
+		"bin-debug/core/controller/BootstrapModel.js",
+		"bin-debug/core/controller/BootstrapView.js",
+		"bin-debug/core/controller/MainCommand.js",
+		"bin-debug/Main.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/core/view/MainMediator.js",
+		"bin-debug/core/view/view/MainScene.js",
+		"bin-debug/core/view/view/Panel.js",
+		"bin-debug/core/view/view/PanelMediator.js",
+		"bin-debug/movie/interface.js",
+		"bin-debug/constants/PanelNotify.js",
+		"bin-debug/sys_adapter/AssetAdapter.js",
+		"bin-debug/sys_adapter/Platform.js",
+		"bin-debug/sys_adapter/ThemeAdapter.js"
+	]
+}

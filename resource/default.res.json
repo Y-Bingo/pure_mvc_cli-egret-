@@ -1,0 +1,30 @@
+{
+	"groups": [
+		{
+			"keys": "bg_panel_blue_png,bg_png,btn_close_png,btn_help_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "assets/bg_panel_blue.png",
+			"type": "image",
+			"name": "bg_panel_blue_png"
+		},
+		{
+			"url": "assets/btn_close.png",
+			"type": "image",
+			"name": "btn_close_png"
+		},
+		{
+			"url": "assets/btn_help.png",
+			"type": "image",
+			"name": "btn_help_png"
+		}
+	]
+}
